@@ -3,6 +3,7 @@
 # Laravel Movie App
 
 ## Installation
+If you want to review the application, you can access it from this [link](https://secure-garden-68019.herokuapp.com).
 
 1. Clone the repo and `cd` into it
 1. `composer install`
